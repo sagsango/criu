@@ -49,6 +49,11 @@ bad_ns:
 	return -1;
 }
 
+/*
+ *
+ * XXX:
+ *  main program of the criu 
+ */
 int main(int argc, char *argv[])
 {
 	pid_t pid = 0;
